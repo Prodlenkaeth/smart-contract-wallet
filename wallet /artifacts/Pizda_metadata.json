@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.29+commit.ab55807c"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "hyesos",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Contract.sol": "Pizda"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Contract.sol": {
+			"keccak256": "0x9b75eb0acb4b126ef5a91068963c3a72427d21d51ff355892c0fbb6f21d3bcb5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a0e910d79a1dd2fca1378f01bdbd083d4772bef4c8a1db3c3af123abdb5eb5a3",
+				"dweb:/ipfs/QmWXTGPRrCbMG6BhcANskg1pV5tXVMvCZXaNZpdYx1PUWT"
+			]
+		}
+	},
+	"version": 1
+}
